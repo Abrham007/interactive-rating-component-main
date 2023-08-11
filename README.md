@@ -21,11 +21,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-- [desktop screenshot](images/screenshot/desktop.png)
-- [mobile screenshot](images/screenshot/mobile.png)
-
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Abrham007/interactive-rating-component-main.git)
