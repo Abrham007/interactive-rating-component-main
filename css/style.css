@@ -41,6 +41,7 @@ h1 {
   color: white;
 }
 p {
+  line-height: 1.6;
   margin-bottom: 10px;
 }
 button {
@@ -65,7 +66,8 @@ button:hover {
   background-color: hsl(25, 97%, 53%);
   color: white;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  font-size: 0.9rem;
+  letter-spacing: 1.7px;
   border-radius: 25px;
 }
 .submit-btn:hover {
